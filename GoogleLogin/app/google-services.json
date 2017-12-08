@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "697470368967",
+    "project_id": "code-adventure-178615"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697470368967:android:e268304d8420e94f",
+        "android_client_info": {
+          "package_name": "com.example.hardik.googlelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697470368967-mlqke0q1ujson1p29e2sf1vmbt59vc9m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hardik.googlelogin",
+            "certificate_hash": "cfd3d4d08988064189f8d4904fe0fb09fee88b0b"
+          }
+        },
+        {
+          "client_id": "697470368967-pssn5gakhu10m1ko8rk3n2quqm2nj151.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwJ33RVDlxDaPJbHEJpnjNGAJTANYmNBo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

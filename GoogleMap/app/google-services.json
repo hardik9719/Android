@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "794436916862",
+    "firebase_url": "https://code-adveture.firebaseio.com",
+    "project_id": "code-adveture",
+    "storage_bucket": "code-adveture.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794436916862:android:ae8d7a7512850b73",
+        "android_client_info": {
+          "package_name": "com.example.hardik.googlemap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794436916862-ui2vf30t3l2tb06tp7pll3tmvtfbea75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVMCrdyemIx5Ul3f-Ku9Kzxh5pQ0vI1nw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

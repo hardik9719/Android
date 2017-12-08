@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.hardik.materialproject.MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/Setting"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/image"
+        android:orderInCategory="100"
+        android:title="@string/Image"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/actionProfile"
+        android:orderInCategory="100"
+        android:title="@string/Profile"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_account_box_black_24dp"
+        />
+</menu>
