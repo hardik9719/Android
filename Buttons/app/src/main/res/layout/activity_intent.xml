@@ -12,5 +12,6 @@
         android:id="@+id/imgclick"
         android:text="Click to view Image"
         />
+   //button to view image 
 
 </LinearLayout>
